@@ -89,7 +89,6 @@ class Review extends StatelessWidget{
       children: <Widget>[
         photo,
         userDetails
-
       ],
     );
   }
